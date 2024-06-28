@@ -1,4 +1,11 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d0bXd1MmM2cTEwNnlldHVyNDdneGg2ZjF6b2N6dngxZmJkczJ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="100"/>
+</div>
+
+
+<!-- ## Hi there 👋
+-->
+
 
 <!--
 **orangecode12/orangecode12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
