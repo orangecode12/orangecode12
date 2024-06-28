@@ -1,7 +1,11 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d0bXd1MmM2cTEwNnlldHVyNDdneGg2ZjF6b2N6dngxZmJkczJ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2d0bXd1MmM2cTEwNnlldHVyNDdneGg2ZjF6b2N6dngxZmJkczJ0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/qUABlXKRRvfQobzIXp/giphy.gif" width="500"/>
 </div>
 
+
+<div id="header" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+</div>
 
 <!-- ## Hi there 👋
 -->
